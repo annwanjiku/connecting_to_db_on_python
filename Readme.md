@@ -16,9 +16,12 @@
   3. Obtaining the resulting data
 
 
-** Tip:** Use functions to help write neat code
 
-_END_
+
+** Tip:** 
+Use functions to help write neat code
+
+
 
 
 

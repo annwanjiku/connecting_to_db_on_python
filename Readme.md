@@ -18,7 +18,7 @@
 
 
 
-** Tip:** 
+<a name="unique-anchor-name">Tip!</a>
 Use functions to help write neat code
 
 

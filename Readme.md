@@ -1,5 +1,4 @@
-# CONNECTING TO DATABASES USING PYTHON
-
+# Connecting to databases using python
 ## Requirements
 1. Python and an IDE that supports python ie.Pycharm
 2. Your database environment ie.MySQL Workbench
@@ -20,6 +19,7 @@
 
 <a name="unique-anchor-name">**Tip**:</a>
 Use functions to help write neat code
+
 
 
 

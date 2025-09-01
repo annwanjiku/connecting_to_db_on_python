@@ -4,7 +4,7 @@
 2. Your database environment ie.MySQL Workbench
 3. The database to connect to
 
-## Procedure
+## Steps
 - On your terminal install mysql.connect
  ``pip install mysql-connector-python``
 - Create a config file for your username, hostname and password that you will need to connect to the database
@@ -19,6 +19,7 @@
 
 <a name="unique-anchor-name">**Tip**:</a>
 Use functions to help write neat code
+
 
 
 
